@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="img/avatar-removebg-preview (1).png">
+<img align="right" width="250px" style="margin-top:-20px" src="img/avatar.png">
 
 </br>
 </br>
@@ -31,7 +31,7 @@ Prazer sou o Vinicios, tenho 27 anos e resido na cidade de Barueri/SP, apaixonad
 </br>
 
 ## 🖥️ Tecnologias e Ferramentas: 
-<img width="300px" align="right" src="img/share_temp_poseA-removebg-preview.png">
+<img width="300px" align="right" src="img/avatar1.png">
 
 <div display="inline-block">
  <p> - Meus estudos recentes tem sido destinado especificamente para área de dados, com foco em: </br>
