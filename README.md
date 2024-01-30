@@ -63,42 +63,43 @@ Prazer sou o Vinicios, tenho 27 anos e resido na cidade de Barueri/SP, apaixonad
   </p>
   
   <p>
-    Todos com projetos que demontra não só habilidade no cógido mas também para solução de problemas...
+    Todos com projetos que demonstram não só habilidade no código, mas também para a solução de problemas...
   </p>
    
 </div> <!-- Fim Tecnologias e Ferramentas -->
-  
-  </br>
-  </br>
 
- 
-  
+</br>
+</br>
 
-  <h3>
-  Caso encontre erros de sintaxe, gasto de processamento excessivo, falta de otimização e muitos cabelos caídos.
-  </h3>
-  <img src="https://cdn.lordicon.com/lordicon.js"/>
-  
-  <lord-icon
-    src="https://cdn.lordicon.com/lordicon.js"
-    trigger="loop"
-    style="width:250px;height:250px">
-</lord-icon>
-  
-  ![wired-flat-1140-error](https://github.com/vinicios-psilva/vinicios-psilva/assets/97298193/5d97e38b-8242-4d8d-acf6-f668e82fd714)
+<div align="center">
 
+<h1>
+ <img width="30px" src="img/atencao.gif"/> ATENÇÃO <img width="30px" src="img/atencao.gif"/>
+</h1>
 
-  
-  </br>
-  </br>
+ <h3>
+  Caso encontre erros de sintaxe, gasto de processamento excessivo, falta de otimização e muitos cabelos caídos, envie um e-mail para:
+ </h3>
+
+ [vinicios.p.silva@outlook.com](mailto:vinicios.p.silva@outlook.com)
+
+</div> 
 
 ##
+
+  </br>
+  </br
+
+   destacando-me como um profissional versátil e capaz de enfrentar desafios diversos no meu campo de atuação. 
+
+
 <div>
   <a href="https://github.com/vinicios-psilva/github-readme-stats">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicios-psilva&show_icons=true&theme=midnight-purple&count_private=true"/>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicios-psilva&layout=compact&show_icons=true&theme=midnight-purple&count_private=true"/>
   </a>
 </div>
+
 
 
 
