@@ -99,8 +99,7 @@ Prazer sou o Vinicios, tenho 27 anos e resido na cidade de Barueri/SP, apaixonad
   </a>
 </div>
 
-![Snake animation](https://github.com/vinicios-psilva/vinicios-psilva/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/vinicios-psilva/vinicios-psilva/blob/output/github-contribution-grid-snake.svg)
 
 
 
